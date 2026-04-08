@@ -30,6 +30,9 @@ project:
     - title: Examples
       children:
         - file: book/part02/first-example.md
+    - title: Projects
+      children:
+        - file: book/projects/gis.md
 site:
   options:
     logo: logo.png

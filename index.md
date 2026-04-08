@@ -1,6 +1,6 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: Qiusheng Wu
+subtitle: Building Open-Source Tools for Geospatial Analysis
 ---
 
 ## Introduction
